@@ -37,3 +37,7 @@ Muitas das linguagens de programação mais utilizadas (como C ++, Object Pascal
 #### Características 
 
 A programação orientada a objetos utiliza objetos, porém nem todas das técnicas e estruturas associadas são suportadas diretamente em linguagens que afirmam suportar a POO. As características listadas abaixo são, entretanto, comuns entre linguagens consideradas fortemente orientadas a classes e objetos (ou multiparadigma com suporte a POO), com exceções notáveis mencionadas
+
+
+## Funções Estaticas Utilitarias
+
