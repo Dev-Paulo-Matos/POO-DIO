@@ -41,3 +41,13 @@ A programação orientada a objetos utiliza objetos, porém nem todas das técni
 
 ## Funções Estaticas Utilitarias
 
+Funções utilitárias são funções que oferecem serviços genéricos e que são úteis em várias
+partes de um sistema, como conversões de dados, manipulação de datas e de estruturas, dentre outros.
+
+Elas são a programação estruturada dentro da POO
+
+### Como identificar uma Função utilitaria?
+
+- [x] Ela consegue se resolver por ela mesma, sem dependencias externa?
+- [ ] Os parametros de entrada são simples e diretos?
+- [ ] O resultado de saída também é simples e direto?
