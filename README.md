@@ -49,5 +49,5 @@ Elas são a programação estruturada dentro da POO
 ### Como identificar uma Função utilitaria?
 
 - [x] Ela consegue se resolver por ela mesma, sem dependencias externa?
-- [ ] Os parametros de entrada são simples e diretos?
-- [ ] O resultado de saída também é simples e direto?
+- [x] Os parametros de entrada são simples e diretos?
+- [x] O resultado de saída também é simples e direto?
